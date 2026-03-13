@@ -1,1 +1,0 @@
-<content of SummitCal IRC.py>
